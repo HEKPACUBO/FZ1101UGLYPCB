@@ -11,4 +11,4 @@ BOM:
 | U2   | E07-M1101D-SMA         | EBYTE             | 1  | (or regular 433 MHz DIP wireless module) |
 | —    | FZ1101UGLYPCB          | ugly_stick        | 1  | (or DIY board)                          |
 
-[Datasheet for each component from BOM]([https://www.google.com](https://drive.google.com/drive/folders/1LJFx5PKUjK_bTJLpGlFWIluUT4byL-NH?usp=sharing))
+[Datasheet for each component from BOM](https://drive.google.com/drive/folders/1LJFx5PKUjK_bTJLpGlFWIluUT4byL-NH?usp=sharing)
