@@ -8,7 +8,7 @@
   </p>
   
 <p align="center">
-<img src="images/QR.jpg" width="500" height="500">
+<img src="images/QR.jpg" width="700" height="700">
 </p>
 
 <p align="center">
