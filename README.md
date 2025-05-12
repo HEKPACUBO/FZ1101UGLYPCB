@@ -1,10 +1,10 @@
 # 
 <p align="center">
- **FZ1101UGLYPCB**
+ <b>FZ1101UGLYPCB</b></p>
 </p>
 
 <p align="center">
-**FZ1101UGLYPCB** - CC1101 commutation PCB project for Flipper Zero
+<b>FZ1101UGLYPCB</b> - CC1101 commutation PCB project for Flipper Zero
   </p>
   
 <p align="center">
