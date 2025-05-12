@@ -3,6 +3,11 @@ FZ1101UGLYPCB - CC1101 commutation PCB project for Flipper Zero
 
 [How it looks like](images/ref.jpg)
 
+[Bottom side of PCB](images/bottom.jpg)
+
+[Main view of PCB](images/main.jpg)
+
+
 
 
 
