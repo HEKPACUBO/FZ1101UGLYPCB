@@ -1,11 +1,29 @@
-# FZ1101UGLYPCB
-FZ1101UGLYPCB - CC1101 commutation PCB project for Flipper Zero
+# 
+<p align="center">
+ **FZ1101UGLYPCB**
+</p>
 
-![How it looks like](images/ref.jpg)
+<p align="center">
+**FZ1101UGLYPCB** - CC1101 commutation PCB project for Flipper Zero
+  </p>
+  
+<p align="center">
+<img src="images/QR.jpg" width="500" height="500">
+</p>
 
-![Bottom side of PCB](images/bottom.jpg)
+<p align="center">
+<img src="images/ref.jpg" width="500" height="700">
+</p>
 
-![Main view of PCB](images/main.jpg)
+<p align="center">
+<img src="images/bottom.jpg" width="500" height="360">
+</p>
+
+<p align="center">
+<img src="images/main.jpg" width="500" height="360">
+</p>
+
+
 
 
 
