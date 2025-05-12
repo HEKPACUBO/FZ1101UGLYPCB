@@ -1,5 +1,16 @@
 # FZ1101UGLYPCB
 FZ1101UGLYPCB - CC1101 commutation PCB project for Flipper Zero
+
+[How it looks like](images/ref.jpg)
+
+
+
+
+
+
+
+
+
 BOM:
 | POS  | PN                     | MFG               | QTY | ANNOTATION                              |
 |------|------------------------|-------------------|-----|-----------------------------------------|
