@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td>LED1</td>
-      <td>KPT-3216EC</td>
+      <td>KPTR-3216ZGC</td>
       <td>Kingbright</td>
       <td>1</td>
       <td>(or any other 3.3V LED in 1206 case or add Resistor)</td>
