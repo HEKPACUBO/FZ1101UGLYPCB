@@ -54,7 +54,7 @@
       <td>KPT-3216EC</td>
       <td>Kingbright</td>
       <td>1</td>
-      <td>(or any other 3.3V LED in 1206 case)</td>
+      <td>(or any other 3.3V LED in 1206 case or add Resistor)</td>
     </tr>
     <tr>
       <td>C1, C2</td>
